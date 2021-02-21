@@ -38,7 +38,7 @@ function setup() {
 }
 
 function draw() {
-  background(360);
+  background(250);
   Engine.update(engine)
   hero.display();
   box1.display();
