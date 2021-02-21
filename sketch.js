@@ -38,7 +38,7 @@ function setup() {
 }
 
 function draw() {
-  background(250);
+  background(50);
   Engine.update(engine)
   hero.display();
   box1.display();
